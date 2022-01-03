@@ -13,8 +13,8 @@
 
 [![Manseerat's github activity graph](https://activity-graph.herokuapp.com/graph?username=seerat16&theme=rogue)](https://github.com/seerat16/github-readme-activity-graph)
 
-<h3>Connect with me</h3>
-<br>
+<h3>Connect with me :</h3>
+<hr width="1px">
 <a href= "www.linkedin.com/in/manseerat-kaur"><img align="left" alt="Manseerat's's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
