@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 
-- 🌱 I’m currently learning DSA and Node.js
+- 🌱 I’m currently learning DSA and React.js
 -  👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: manseeratk16@gmail.com
 - ⚡ Fact: Just another creative crackhead living in a delusional world
